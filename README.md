@@ -33,7 +33,7 @@ For this program, once executed it will display a block of text welcoming and in
 
 ## Known Bugs
 
-* No currently known bugs
+* Currently prompt does not detect if int or string is entered and thus errors might be thrown.
 
 ## License
 
